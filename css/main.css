@@ -98,7 +98,8 @@ p {
 
 @media (min-width: 576px) {
   .modal-dialog {
-    max-width: 600px;
+    width: 800px;
+    max-width: 800px;
   }
 }
 
